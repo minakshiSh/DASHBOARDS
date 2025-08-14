@@ -15,3 +15,7 @@ Flight Incident Analytics Dashboard (Power BI)
 Data taken from- Kaggle
 An interactive Power BI dashboard that analyzes global flight incident data, focusing on safety trends and operational risks. It visualizes metrics such as fatalities, incident counts, aircraft models involved, types of damage, airline operators, and geographical locations of incidents. The dashboard provides year-wise trend analysis, aircraft-wise comparisons, and location mapping to help identify patterns and enhance aviation safety insights.
 
+Sales Data Dashboard (Excel)
+It includes pivot tables for total sales by category and channel, transaction counts by product type, shipping costs by region and quarter, and profit analysis by category.
+The raw sales & customer data sheet contains detailed transaction-level info for deeper analysis, and the Dashboard sheet is likely an interactive summary in Excel.
+From this, you can track sales trends, identify top products and regions, measure profitability, and monitor shipping expenses to find cost-saving and growth opportunities.
